@@ -1,0 +1,8 @@
+{
+    "User": true,
+    "Category": true,
+    "Product": true,
+    "Brand": true,
+    "Settings": true,
+    "Seo": true
+}

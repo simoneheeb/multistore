@@ -1,0 +1,45 @@
+{
+  "defaults": {
+    "site_name": "Beta Official",
+    "title": "Beta Official",
+    "title_template": "%s | Beta Official",
+    "description": "Online store for sports equipment, with guaranteed authentic products and fast delivery.",
+    "keywords": "sports equipment, sportswear, sports store",
+    "og_image": "http://127.0.0.1:3000/assets/images/og-default.jpg",
+    "twitter_handle": "",
+    "robots": "index, follow",
+    "google_site_verification": "",
+    "locale": "en_US",
+    "base_url": "http://127.0.0.1:3000"
+  },
+  "jsonld": {
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Beta Official",
+      "url": "http://127.0.0.1:3000",
+      "logo": "http://127.0.0.1:3000/assets/images/logo-header.png",
+      "telephone": "+1 (555) 000-0000",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "San Francisco, CA, United States",
+        "addressCountry": "IR"
+      }
+    },
+    "website": {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Beta Official",
+      "url": "http://127.0.0.1:3000",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "http://127.0.0.1:3000/products?search={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    }
+  },
+  "status": true
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Sports Balls",
+    "slug": "sports-balls",
+    "depth": 0,
+    "products_length": 0,
+    "is_active": true,
+    "children": [
+      {
+        "name": "Football",
+        "slug": "football",
+        "depth": 1,
+        "products_length": 0,
+        "is_active": true,
+        "children": [
+          {
+            "name": "Leather Football",
+            "slug": "leather-football",
+            "depth": 2,
+            "products_length": 4,
+            "is_active": true,
+            "children": []
+          },
+          {
+            "name": "Training Football",
+            "slug": "training-football",
+            "depth": 2,
+            "products_length": 4,
+            "is_active": true,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Futsal",
+        "slug": "futsal",
+        "depth": 1,
+        "products_length": 4,
+        "is_active": true,
+        "children": []
+      },
+      {
+        "name": "Basketball",
+        "slug": "basketball",
+        "depth": 1,
+        "products_length": 4,
+        "is_active": true,
+        "children": []
+      },
+      {
+        "name": "Volleyball",
+        "slug": "volleyball",
+        "depth": 1,
+        "products_length": 4,
+        "is_active": true,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Apparel",
+    "slug": "apparel",
+    "depth": 0,
+    "products_length": 0,
+    "is_active": true,
+    "children": [
+      {
+        "name": "T-Shirts",
+        "slug": "t-shirts",
+        "depth": 1,
+        "products_length": 4,
+        "is_active": true,
+        "children": []
+      },
+      {
+        "name": "Shorts",
+        "slug": "shorts",
+        "depth": 1,
+        "products_length": 4,
+        "is_active": true,
+        "children": []
+      },
+      {
+        "name": "Tracksuits",
+        "slug": "tracksuits",
+        "depth": 1,
+        "products_length": 4,
+        "is_active": true,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Fitness Equipment",
+    "slug": "fitness-equipment",
+    "depth": 0,
+    "products_length": 0,
+    "is_active": true,
+    "children": [
+      {
+        "name": "Dumbbells",
+        "slug": "dumbbells",
+        "depth": 1,
+        "products_length": 4,
+        "is_active": true,
+        "children": []
+      },
+      {
+        "name": "Resistance Bands",
+        "slug": "resistance-bands",
+        "depth": 1,
+        "products_length": 4,
+        "is_active": true,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Swimming Gear",
+    "slug": "swimming-gear",
+    "depth": 0,
+    "products_length": 4,
+    "is_active": true,
+    "children": []
+  },
+  {
+    "name": "Sports Bags",
+    "slug": "sports-bags",
+    "depth": 0,
+    "products_length": 4,
+    "is_active": true,
+    "children": []
+  }
+]

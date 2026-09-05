@@ -1,0 +1,16 @@
+# /home/betaoffi/public_html/.htaccess
+RewriteEngine On
+
+# Laravel API
+RewriteRule ^api/(.*)$ /api/public/index.php/api/$1 [L,QSA]
+
+# Laravel storage
+RewriteRule ^storage/(.*)$ /api/storage/$1 [L]
+
+# Existing files/directories
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Nuxt SPA fallback
+RewriteRule ^ /200.html [L]

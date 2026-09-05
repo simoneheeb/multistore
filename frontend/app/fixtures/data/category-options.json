@@ -1,0 +1,98 @@
+[
+  {
+    "id": "01a06fd1-d3ec-72bf-903c-ea10d818b2a2",
+    "name": "Sports Balls",
+    "slug": "sports-balls",
+    "depth": 0
+  },
+  {
+    "id": "01a06fd1-d3ee-7169-ac5b-5b10b20ff302",
+    "name": "Football",
+    "slug": "football",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d3f0-73bb-9c04-6b6779619c6d",
+    "name": "Leather Football",
+    "slug": "leather-football",
+    "depth": 2
+  },
+  {
+    "id": "01a06fd1-d3f2-71e0-9dcd-9fc01189908c",
+    "name": "Training Football",
+    "slug": "training-football",
+    "depth": 2
+  },
+  {
+    "id": "01a06fd1-d3f4-7160-980f-45ce4e5b7508",
+    "name": "Futsal",
+    "slug": "futsal",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d3f5-71b4-b876-75bbe75b5aac",
+    "name": "Basketball",
+    "slug": "basketball",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d3f7-731e-8082-a5f71bc03203",
+    "name": "Volleyball",
+    "slug": "volleyball",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d3f8-726c-b18a-ae0d806cd819",
+    "name": "Apparel",
+    "slug": "apparel",
+    "depth": 0
+  },
+  {
+    "id": "01a06fd1-d3fa-7290-9e0a-f6c4dd5f86ed",
+    "name": "T-Shirts",
+    "slug": "t-shirts",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d3fc-7188-918e-8e8da14c46b0",
+    "name": "Shorts",
+    "slug": "shorts",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d3fd-7265-a3ed-ebc75cfae71a",
+    "name": "Tracksuits",
+    "slug": "tracksuits",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d3ff-7045-9141-52bb60eb47f2",
+    "name": "Fitness Equipment",
+    "slug": "fitness-equipment",
+    "depth": 0
+  },
+  {
+    "id": "01a06fd1-d400-71b2-978b-39e0734698db",
+    "name": "Dumbbells",
+    "slug": "dumbbells",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d402-73cc-b073-92829645b2c6",
+    "name": "Resistance Bands",
+    "slug": "resistance-bands",
+    "depth": 1
+  },
+  {
+    "id": "01a06fd1-d404-70a3-a1cb-f806d9499fd1",
+    "name": "Swimming Gear",
+    "slug": "swimming-gear",
+    "depth": 0
+  },
+  {
+    "id": "01a06fd1-d405-731b-9274-8a2a920ccd8b",
+    "name": "Sports Bags",
+    "slug": "sports-bags",
+    "depth": 0
+  }
+]

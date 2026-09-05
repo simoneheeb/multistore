@@ -1,0 +1,11 @@
+{
+    "name": "Seo",
+    "alias": "seo",
+    "description": "Sitemap, robots.txt and structured-data endpoints.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Seo\\Providers\\SeoServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,20 @@
+{
+    "name": "app/seo",
+    "description": "SEO module: sitemap, robots and structured data.",
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Seo\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Seo\\Tests\\": "tests/"
+        }
+    }
+}

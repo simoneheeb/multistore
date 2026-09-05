@@ -1,0 +1,4327 @@
+{
+  "products": {
+    "training-shirt-elite-e4ur": {
+      "data": {
+        "name": "Training Shirt Elite E4UR",
+        "slug": "training-shirt-elite-e4ur",
+        "pid": "LEATHER-ZYGPDT",
+        "description": "Doloremque et alias a aut qui. Id voluptatem vitae ut dicta. Accusamus quo tenetur eveniet amet quia consequatur ut. Voluptatem sapiente possimus aut necessitatibus doloremque dignissimos.",
+        "meta_title": "Training Shirt Elite E4UR",
+        "meta_description": "Doloremque et alias a aut qui. Id voluptatem vitae ut dicta. Accusamus quo tenetur eveniet amet quia consequatur ut. Voluptatem sapiente possimus aut necessitat",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "3299 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Leather Football",
+          "slug": "leather-football",
+          "logo": null,
+          "description": null,
+          "meta_title": "Leather Football",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "swim-goggles-new-edition-4woe",
+        "dumbbell-new-edition-qdku",
+        "swim-goggles-classic-wyt3"
+      ],
+      "status": true
+    },
+    "dumbbell-new-edition-qdku": {
+      "data": {
+        "name": "Dumbbell New Edition QDKU",
+        "slug": "dumbbell-new-edition-qdku",
+        "pid": "LEATHER-EREAYQ",
+        "description": "Alias consequatur accusantium a nemo modi. Eaque amet minima sint corrupti.",
+        "meta_title": "Dumbbell New Edition QDKU",
+        "meta_description": "Alias consequatur accusantium a nemo modi. Eaque amet minima sint corrupti.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Metal"
+          },
+          {
+            "key": "Weight",
+            "value": "512 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Leather Football",
+          "slug": "leather-football",
+          "logo": null,
+          "description": null,
+          "meta_title": "Leather Football",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "swim-goggles-new-edition-4woe",
+        "swim-goggles-classic-wyt3",
+        "training-shirt-elite-e4ur"
+      ],
+      "status": true
+    },
+    "swim-goggles-new-edition-4woe": {
+      "data": {
+        "name": "Swim Goggles New Edition 4WOE",
+        "slug": "swim-goggles-new-edition-4woe",
+        "pid": "LEATHER-RV80CA",
+        "description": "Fugiat iure voluptatum deleniti in iure delectus. Nesciunt est quos iste nihil architecto in culpa. Necessitatibus earum consectetur voluptatem qui perspiciatis. Illum consectetur nisi quisquam ab rerum veritatis suscipit.",
+        "meta_title": "Swim Goggles New Edition 4WOE",
+        "meta_description": "Fugiat iure voluptatum deleniti in iure delectus. Nesciunt est quos iste nihil architecto in culpa. Necessitatibus earum consectetur voluptatem qui perspiciatis",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "4289 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Leather Football",
+          "slug": "leather-football",
+          "logo": null,
+          "description": null,
+          "meta_title": "Leather Football",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "swim-goggles-classic-wyt3",
+        "training-shirt-elite-e4ur",
+        "dumbbell-new-edition-qdku"
+      ],
+      "status": true
+    },
+    "swim-goggles-classic-wyt3": {
+      "data": {
+        "name": "Swim Goggles Classic WYT3",
+        "slug": "swim-goggles-classic-wyt3",
+        "pid": "LEATHER-3CLOTU",
+        "description": "Et voluptas enim eaque in exercitationem. Quod corporis sunt quo a quo ut. Eum deserunt dolorum beatae quia ut qui.",
+        "meta_title": "Swim Goggles Classic WYT3",
+        "meta_description": "Et voluptas enim eaque in exercitationem. Quod corporis sunt quo a quo ut. Eum deserunt dolorum beatae quia ut qui.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "4056 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Leather Football",
+          "slug": "leather-football",
+          "logo": null,
+          "description": null,
+          "meta_title": "Leather Football",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "training-shirt-elite-e4ur",
+        "dumbbell-new-edition-qdku",
+        "swim-goggles-new-edition-4woe"
+      ],
+      "status": true
+    },
+    "training-shirt-classic-br0i": {
+      "data": {
+        "name": "Training Shirt Classic BR0I",
+        "slug": "training-shirt-classic-br0i",
+        "pid": "TRAINING-OCTPEO",
+        "description": "Sit aspernatur qui qui exercitationem et ullam dolore. Ea aut omnis cupiditate iusto nesciunt ad consequuntur. Sequi sed ullam aliquam molestias ab.",
+        "meta_title": "Training Shirt Classic BR0I",
+        "meta_description": "Sit aspernatur qui qui exercitationem et ullam dolore. Ea aut omnis cupiditate iusto nesciunt ad consequuntur. Sequi sed ullam aliquam molestias ab.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "2795 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Training Football",
+          "slug": "training-football",
+          "logo": null,
+          "description": null,
+          "meta_title": "Training Football",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "training-shirt-new-edition-xbwd",
+        "yoga-mat-elite-onwu",
+        "jump-rope-pro-kqi9"
+      ],
+      "status": true
+    },
+    "training-shirt-new-edition-xbwd": {
+      "data": {
+        "name": "Training Shirt New Edition XBWD",
+        "slug": "training-shirt-new-edition-xbwd",
+        "pid": "TRAINING-QXZGDW",
+        "description": "Velit optio porro impedit rem beatae officia sit. Rem a provident est doloribus.",
+        "meta_title": "Training Shirt New Edition XBWD",
+        "meta_description": "Velit optio porro impedit rem beatae officia sit. Rem a provident est doloribus.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "3132 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Training Football",
+          "slug": "training-football",
+          "logo": null,
+          "description": null,
+          "meta_title": "Training Football",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "training-shirt-classic-br0i",
+        "jump-rope-pro-kqi9",
+        "yoga-mat-elite-onwu"
+      ],
+      "status": true
+    },
+    "jump-rope-pro-kqi9": {
+      "data": {
+        "name": "Jump Rope Pro KQI9",
+        "slug": "jump-rope-pro-kqi9",
+        "pid": "TRAINING-GOMBKN",
+        "description": "Aut magnam id quibusdam. Fugiat voluptas eum ea libero. Voluptas mollitia non cumque quia ipsa amet voluptatem. Debitis dicta corporis et illum.",
+        "meta_title": "Jump Rope Pro KQI9",
+        "meta_description": "Aut magnam id quibusdam. Fugiat voluptas eum ea libero. Voluptas mollitia non cumque quia ipsa amet voluptatem. Debitis dicta corporis et illum.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "240 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Training Football",
+          "slug": "training-football",
+          "logo": null,
+          "description": null,
+          "meta_title": "Training Football",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-elite-onwu",
+        "training-shirt-new-edition-xbwd",
+        "training-shirt-classic-br0i"
+      ],
+      "status": true
+    },
+    "swim-goggles-new-edition-jrjj": {
+      "data": {
+        "name": "Swim Goggles New Edition JRJJ",
+        "slug": "swim-goggles-new-edition-jrjj",
+        "pid": "FUTSAL-33PCWL",
+        "description": "Mollitia maxime explicabo labore quam ducimus consequatur. Ab dolor quia consequatur facere dolorem omnis. Explicabo est nostrum facere omnis architecto placeat aut aliquid.",
+        "meta_title": "Swim Goggles New Edition JRJJ",
+        "meta_description": "Mollitia maxime explicabo labore quam ducimus consequatur. Ab dolor quia consequatur facere dolorem omnis. Explicabo est nostrum facere omnis architecto placeat",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "1673 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Futsal",
+          "slug": "futsal",
+          "logo": null,
+          "description": null,
+          "meta_title": "Futsal",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "dumbbell-pro-dmph",
+        "jump-rope-new-edition-gyv6",
+        "sports-bag-new-edition-dt3g"
+      ],
+      "status": true
+    },
+    "football-elite-o1iz": {
+      "data": {
+        "name": "Football Elite O1IZ",
+        "slug": "football-elite-o1iz",
+        "pid": "BASKETBA-T1RHKE",
+        "description": "Ut et ut reprehenderit eligendi. Ipsam debitis dolore neque quisquam dolorem eum et et. Ipsum porro consequatur illum natus. Sint dolorem eum cum sed dolores autem.",
+        "meta_title": "Football Elite O1IZ",
+        "meta_description": "Ut et ut reprehenderit eligendi. Ipsam debitis dolore neque quisquam dolorem eum et et. Ipsum porro consequatur illum natus. Sint dolorem eum cum sed dolores au",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "100 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Basketball",
+          "slug": "basketball",
+          "logo": null,
+          "description": null,
+          "meta_title": "Basketball",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-elite-b5ob",
+        "yoga-mat-elite-9q2b",
+        "sports-bag-elite-qp6a"
+      ],
+      "status": true
+    },
+    "football-elite-ciyw": {
+      "data": {
+        "name": "Football Elite CIYW",
+        "slug": "football-elite-ciyw",
+        "pid": "VOLLEYBA-T0GYA5",
+        "description": "Amet ad quod magni. Dolor corporis officiis praesentium recusandae error id. Quam laudantium cupiditate natus sapiente.",
+        "meta_title": "Football Elite CIYW",
+        "meta_description": "Amet ad quod magni. Dolor corporis officiis praesentium recusandae error id. Quam laudantium cupiditate natus sapiente.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Metal"
+          },
+          {
+            "key": "Weight",
+            "value": "1607 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Volleyball",
+          "slug": "volleyball",
+          "logo": null,
+          "description": null,
+          "meta_title": "Volleyball",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "training-shirt-new-edition-nnsl",
+        "yoga-mat-new-edition-mxky",
+        "yoga-mat-classic-80uj"
+      ],
+      "status": true
+    },
+    "yoga-mat-new-edition-mxky": {
+      "data": {
+        "name": "Yoga Mat New Edition MXKY",
+        "slug": "yoga-mat-new-edition-mxky",
+        "pid": "VOLLEYBA-GKXKKG",
+        "description": "Omnis laudantium perferendis dolore velit quasi. Magnam reprehenderit cumque sit quibusdam fugit sunt. Sit neque sed quia est dolore. Ullam hic adipisci eum.",
+        "meta_title": "Yoga Mat New Edition MXKY",
+        "meta_description": "Omnis laudantium perferendis dolore velit quasi. Magnam reprehenderit cumque sit quibusdam fugit sunt. Sit neque sed quia est dolore. Ullam hic adipisci eum.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "3159 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Volleyball",
+          "slug": "volleyball",
+          "logo": null,
+          "description": null,
+          "meta_title": "Volleyball",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "training-shirt-new-edition-nnsl",
+        "yoga-mat-classic-80uj",
+        "football-elite-ciyw"
+      ],
+      "status": true
+    },
+    "yoga-mat-classic-80uj": {
+      "data": {
+        "name": "Yoga Mat Classic 80UJ",
+        "slug": "yoga-mat-classic-80uj",
+        "pid": "VOLLEYBA-GAX3OO",
+        "description": "Dolorem at qui culpa. Cumque sint illum odit illum distinctio suscipit ut. Eum quasi et recusandae dolore temporibus repellat.",
+        "meta_title": "Yoga Mat Classic 80UJ",
+        "meta_description": "Dolorem at qui culpa. Cumque sint illum odit illum distinctio suscipit ut. Eum quasi et recusandae dolore temporibus repellat.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "2323 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Volleyball",
+          "slug": "volleyball",
+          "logo": null,
+          "description": null,
+          "meta_title": "Volleyball",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-new-edition-mxky",
+        "training-shirt-new-edition-nnsl",
+        "football-elite-ciyw"
+      ],
+      "status": true
+    },
+    "training-shirt-pro-atme": {
+      "data": {
+        "name": "Training Shirt Pro ATME",
+        "slug": "training-shirt-pro-atme",
+        "pid": "T-SHIRTS-7NLL5J",
+        "description": "Ea amet est ipsa dolore sit asperiores. Repudiandae numquam beatae optio dolor sed. Officiis sint quibusdam aliquam veritatis. Ea qui in praesentium omnis tempore.",
+        "meta_title": "Training Shirt Pro ATME",
+        "meta_description": "Ea amet est ipsa dolore sit asperiores. Repudiandae numquam beatae optio dolor sed. Officiis sint quibusdam aliquam veritatis. Ea qui in praesentium omnis tempo",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "1936 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "T-Shirts",
+          "slug": "t-shirts",
+          "logo": null,
+          "description": null,
+          "meta_title": "T-Shirts",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-elite-xdbq",
+        "jump-rope-new-edition-wpgg",
+        "training-shirt-pro-k3sa"
+      ],
+      "status": true
+    },
+    "training-shirt-pro-k3sa": {
+      "data": {
+        "name": "Training Shirt Pro K3SA",
+        "slug": "training-shirt-pro-k3sa",
+        "pid": "T-SHIRTS-VWIAW8",
+        "description": "Voluptates et quas tempora quis illum. Quidem voluptatem distinctio quidem. Error laboriosam temporibus inventore.",
+        "meta_title": "Training Shirt Pro K3SA",
+        "meta_description": "Voluptates et quas tempora quis illum. Quidem voluptatem distinctio quidem. Error laboriosam temporibus inventore.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "256 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "T-Shirts",
+          "slug": "t-shirts",
+          "logo": null,
+          "description": null,
+          "meta_title": "T-Shirts",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-new-edition-wpgg",
+        "jump-rope-elite-xdbq",
+        "training-shirt-pro-atme"
+      ],
+      "status": true
+    },
+    "dumbbell-classic-rn5b": {
+      "data": {
+        "name": "Dumbbell Classic RN5B",
+        "slug": "dumbbell-classic-rn5b",
+        "pid": "SHORTS-XP1XMS",
+        "description": "Possimus excepturi et nobis quia vitae quibusdam praesentium et. Illo ut rerum laboriosam. Natus saepe ut ullam est debitis.",
+        "meta_title": "Dumbbell Classic RN5B",
+        "meta_description": "Possimus excepturi et nobis quia vitae quibusdam praesentium et. Illo ut rerum laboriosam. Natus saepe ut ullam est debitis.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "3159 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Shorts",
+          "slug": "shorts",
+          "logo": null,
+          "description": null,
+          "meta_title": "Shorts",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-new-edition-bbaq",
+        "swim-goggles-new-edition-wpey",
+        "football-elite-wycq"
+      ],
+      "status": true
+    },
+    "sports-bag-pro-udeo": {
+      "data": {
+        "name": "Sports Bag Pro UDEO",
+        "slug": "sports-bag-pro-udeo",
+        "pid": "TRACKSUI-JGJBM5",
+        "description": "Voluptatum ut occaecati eaque saepe laudantium aliquid. Eos magni quo veritatis ut quasi natus. Ut quaerat temporibus aut ipsam. Non quidem reiciendis aut consequatur voluptate cum in.",
+        "meta_title": "Sports Bag Pro UDEO",
+        "meta_description": "Voluptatum ut occaecati eaque saepe laudantium aliquid. Eos magni quo veritatis ut quasi natus. Ut quaerat temporibus aut ipsam. Non quidem reiciendis aut conse",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "3901 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Tracksuits",
+          "slug": "tracksuits",
+          "logo": null,
+          "description": null,
+          "meta_title": "Tracksuits",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-classic-qxzx",
+        "swim-goggles-new-edition-ahtl",
+        "football-pro-ikg9"
+      ],
+      "status": true
+    },
+    "swim-goggles-new-edition-ahtl": {
+      "data": {
+        "name": "Swim Goggles New Edition AHTL",
+        "slug": "swim-goggles-new-edition-ahtl",
+        "pid": "TRACKSUI-PG4RBW",
+        "description": "Dolorem ea voluptatem est provident et. Culpa non non aut tenetur eum rerum. Molestias voluptatibus eum debitis vel vel eveniet aspernatur maxime. Voluptas quia mollitia optio quam nihil quo beatae.",
+        "meta_title": "Swim Goggles New Edition AHTL",
+        "meta_description": "Dolorem ea voluptatem est provident et. Culpa non non aut tenetur eum rerum. Molestias voluptatibus eum debitis vel vel eveniet aspernatur maxime. Voluptas quia",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "448 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Tracksuits",
+          "slug": "tracksuits",
+          "logo": null,
+          "description": null,
+          "meta_title": "Tracksuits",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-classic-qxzx",
+        "football-pro-ikg9",
+        "sports-bag-pro-udeo"
+      ],
+      "status": true
+    },
+    "jump-rope-elite-5eqj": {
+      "data": {
+        "name": "Jump Rope Elite 5EQJ",
+        "slug": "jump-rope-elite-5eqj",
+        "pid": "DUMBBELL-H5GWIL",
+        "description": "Ipsa maxime voluptas placeat quam delectus sapiente. Modi voluptatibus non eaque dicta. Ut tempora qui quas et non. Doloribus libero est quas dignissimos reprehenderit blanditiis.",
+        "meta_title": "Jump Rope Elite 5EQJ",
+        "meta_description": "Ipsa maxime voluptas placeat quam delectus sapiente. Modi voluptatibus non eaque dicta. Ut tempora qui quas et non. Doloribus libero est quas dignissimos repreh",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Rubber"
+          },
+          {
+            "key": "Weight",
+            "value": "3594 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Dumbbells",
+          "slug": "dumbbells",
+          "logo": null,
+          "description": null,
+          "meta_title": "Dumbbells",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-classic-jahm",
+        "dumbbell-new-edition-ycfp",
+        "jump-rope-classic-rcxq"
+      ],
+      "status": true
+    },
+    "dumbbell-new-edition-ycfp": {
+      "data": {
+        "name": "Dumbbell New Edition YCFP",
+        "slug": "dumbbell-new-edition-ycfp",
+        "pid": "DUMBBELL-UZPCQ9",
+        "description": "Vel ut incidunt ut. Vel numquam omnis sed aut est. Eveniet aut dolores consequatur omnis doloremque pariatur et. Et ab assumenda ducimus ipsam. Est molestias qui quis ab officiis et at.",
+        "meta_title": "Dumbbell New Edition YCFP",
+        "meta_description": "Vel ut incidunt ut. Vel numquam omnis sed aut est. Eveniet aut dolores consequatur omnis doloremque pariatur et. Et ab assumenda ducimus ipsam. Est molestias qu",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "3976 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Dumbbells",
+          "slug": "dumbbells",
+          "logo": null,
+          "description": null,
+          "meta_title": "Dumbbells",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-elite-5eqj",
+        "jump-rope-classic-rcxq",
+        "jump-rope-classic-jahm"
+      ],
+      "status": true
+    },
+    "jump-rope-classic-jahm": {
+      "data": {
+        "name": "Jump Rope Classic JAHM",
+        "slug": "jump-rope-classic-jahm",
+        "pid": "DUMBBELL-HT9T7H",
+        "description": "Odio voluptatum laborum sint non qui in ipsa. Dignissimos eligendi animi nemo laboriosam nulla eos omnis. Ipsa repellendus laudantium quisquam in pariatur natus. Illum consequatur natus magni vel.",
+        "meta_title": "Jump Rope Classic JAHM",
+        "meta_description": "Odio voluptatum laborum sint non qui in ipsa. Dignissimos eligendi animi nemo laboriosam nulla eos omnis. Ipsa repellendus laudantium quisquam in pariatur natus",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "3623 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Dumbbells",
+          "slug": "dumbbells",
+          "logo": null,
+          "description": null,
+          "meta_title": "Dumbbells",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-classic-rcxq",
+        "jump-rope-elite-5eqj",
+        "dumbbell-new-edition-ycfp"
+      ],
+      "status": true
+    },
+    "jump-rope-classic-rcxq": {
+      "data": {
+        "name": "Jump Rope Classic RCXQ",
+        "slug": "jump-rope-classic-rcxq",
+        "pid": "DUMBBELL-E0ZJFO",
+        "description": "Veritatis perferendis quis ab porro magnam rerum asperiores voluptas. Odit vel eveniet dignissimos quia ea tenetur. Aut quas hic voluptas explicabo fugiat officia impedit iste. Placeat eos sequi aut qui dolor enim.",
+        "meta_title": "Jump Rope Classic RCXQ",
+        "meta_description": "Veritatis perferendis quis ab porro magnam rerum asperiores voluptas. Odit vel eveniet dignissimos quia ea tenetur. Aut quas hic voluptas explicabo fugiat offic",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "2857 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Dumbbells",
+          "slug": "dumbbells",
+          "logo": null,
+          "description": null,
+          "meta_title": "Dumbbells",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-elite-5eqj",
+        "jump-rope-classic-jahm",
+        "dumbbell-new-edition-ycfp"
+      ],
+      "status": true
+    },
+    "dumbbell-new-edition-yorv": {
+      "data": {
+        "name": "Dumbbell New Edition YORV",
+        "slug": "dumbbell-new-edition-yorv",
+        "pid": "RESISTAN-JTGKT1",
+        "description": "Ut veniam rerum qui voluptates est. Quae harum praesentium nam ut voluptates reprehenderit aut. Repellendus assumenda rerum porro eius recusandae aut error.",
+        "meta_title": "Dumbbell New Edition YORV",
+        "meta_description": "Ut veniam rerum qui voluptates est. Quae harum praesentium nam ut voluptates reprehenderit aut. Repellendus assumenda rerum porro eius recusandae aut error.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "3226 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Resistance Bands",
+          "slug": "resistance-bands",
+          "logo": null,
+          "description": null,
+          "meta_title": "Resistance Bands",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "football-new-edition-4k76",
+        "sports-bag-new-edition-8fsj",
+        "jump-rope-elite-wkr0"
+      ],
+      "status": true
+    },
+    "jump-rope-elite-wkr0": {
+      "data": {
+        "name": "Jump Rope Elite WKR0",
+        "slug": "jump-rope-elite-wkr0",
+        "pid": "RESISTAN-VMI8AI",
+        "description": "Eius illum perferendis vel ea nam. Nulla animi nesciunt perspiciatis suscipit. Ut nesciunt consequatur eius. Laborum et omnis aspernatur quidem qui repudiandae porro.",
+        "meta_title": "Jump Rope Elite WKR0",
+        "meta_description": "Eius illum perferendis vel ea nam. Nulla animi nesciunt perspiciatis suscipit. Ut nesciunt consequatur eius. Laborum et omnis aspernatur quidem qui repudiandae ",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "2949 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Resistance Bands",
+          "slug": "resistance-bands",
+          "logo": null,
+          "description": null,
+          "meta_title": "Resistance Bands",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "dumbbell-new-edition-yorv",
+        "football-new-edition-4k76",
+        "sports-bag-new-edition-8fsj"
+      ],
+      "status": true
+    },
+    "football-new-edition-4k76": {
+      "data": {
+        "name": "Football New Edition 4K76",
+        "slug": "football-new-edition-4k76",
+        "pid": "RESISTAN-DXGHJ6",
+        "description": "Autem unde error nisi nam. Veniam accusamus laboriosam eos eos qui voluptas. Laborum voluptatum magnam ipsam quod.",
+        "meta_title": "Football New Edition 4K76",
+        "meta_description": "Autem unde error nisi nam. Veniam accusamus laboriosam eos eos qui voluptas. Laborum voluptatum magnam ipsam quod.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Metal"
+          },
+          {
+            "key": "Weight",
+            "value": "1413 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Resistance Bands",
+          "slug": "resistance-bands",
+          "logo": null,
+          "description": null,
+          "meta_title": "Resistance Bands",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "dumbbell-new-edition-yorv",
+        "jump-rope-elite-wkr0",
+        "sports-bag-new-edition-8fsj"
+      ],
+      "status": true
+    },
+    "sports-bag-classic-tfrv": {
+      "data": {
+        "name": "Sports Bag Classic TFRV",
+        "slug": "sports-bag-classic-tfrv",
+        "pid": "SWIMMING-ZLIYQJ",
+        "description": "Autem non aut odit. Repudiandae fuga vel nihil nihil explicabo iste ipsam. Autem culpa qui minima asperiores vel. Molestias alias quia aperiam qui ut necessitatibus.",
+        "meta_title": "Sports Bag Classic TFRV",
+        "meta_description": "Autem non aut odit. Repudiandae fuga vel nihil nihil explicabo iste ipsam. Autem culpa qui minima asperiores vel. Molestias alias quia aperiam qui ut necessitat",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "111 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Swimming Gear",
+          "slug": "swimming-gear",
+          "logo": null,
+          "description": null,
+          "meta_title": "Swimming Gear",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "swim-goggles-elite-2rzr",
+        "tennis-racket-elite-0lqy",
+        "training-shirt-classic-xqyh"
+      ],
+      "status": true
+    },
+    "swim-goggles-elite-2rzr": {
+      "data": {
+        "name": "Swim Goggles Elite 2RZR",
+        "slug": "swim-goggles-elite-2rzr",
+        "pid": "SWIMMING-BUDG94",
+        "description": "Eveniet debitis quibusdam quos animi ex et illo. Velit commodi sed ipsam sit mollitia. Nemo facere deleniti non et. Aliquid voluptas sed necessitatibus eaque sapiente iste qui eos.",
+        "meta_title": "Swim Goggles Elite 2RZR",
+        "meta_description": "Eveniet debitis quibusdam quos animi ex et illo. Velit commodi sed ipsam sit mollitia. Nemo facere deleniti non et. Aliquid voluptas sed necessitatibus eaque sa",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "203 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Swimming Gear",
+          "slug": "swimming-gear",
+          "logo": null,
+          "description": null,
+          "meta_title": "Swimming Gear",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "training-shirt-classic-xqyh",
+        "sports-bag-classic-tfrv",
+        "tennis-racket-elite-0lqy"
+      ],
+      "status": true
+    },
+    "tennis-racket-elite-0lqy": {
+      "data": {
+        "name": "Tennis Racket Elite 0LQY",
+        "slug": "tennis-racket-elite-0lqy",
+        "pid": "SWIMMING-P3AOT2",
+        "description": "Aut accusantium iste ea. Eos eum blanditiis in pariatur. Illo sit sit modi ut rerum. Eius iste totam voluptatem beatae cupiditate.",
+        "meta_title": "Tennis Racket Elite 0LQY",
+        "meta_description": "Aut accusantium iste ea. Eos eum blanditiis in pariatur. Illo sit sit modi ut rerum. Eius iste totam voluptatem beatae cupiditate.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "322 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Swimming Gear",
+          "slug": "swimming-gear",
+          "logo": null,
+          "description": null,
+          "meta_title": "Swimming Gear",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "swim-goggles-elite-2rzr",
+        "training-shirt-classic-xqyh",
+        "sports-bag-classic-tfrv"
+      ],
+      "status": true
+    },
+    "swim-goggles-classic-ogko": {
+      "data": {
+        "name": "Swim Goggles Classic OGKO",
+        "slug": "swim-goggles-classic-ogko",
+        "pid": "SPORTS-B-88RRNA",
+        "description": "Temporibus quis omnis non odit mollitia eos. Placeat aut consequatur id velit labore qui. Qui iusto sapiente aut qui.",
+        "meta_title": "Swim Goggles Classic OGKO",
+        "meta_description": "Temporibus quis omnis non odit mollitia eos. Placeat aut consequatur id velit labore qui. Qui iusto sapiente aut qui.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Rubber"
+          },
+          {
+            "key": "Weight",
+            "value": "3917 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Sports Bags",
+          "slug": "sports-bags",
+          "logo": null,
+          "description": null,
+          "meta_title": "Sports Bags",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-classic-4cau",
+        "jump-rope-classic-9usg",
+        "swim-goggles-classic-ddsv"
+      ],
+      "status": true
+    },
+    "jump-rope-classic-9usg": {
+      "data": {
+        "name": "Jump Rope Classic 9USG",
+        "slug": "jump-rope-classic-9usg",
+        "pid": "SPORTS-B-RQGJXL",
+        "description": "Assumenda reiciendis culpa distinctio perspiciatis iusto officiis. Aut ut accusamus rerum sunt et et non eos. Dicta quis velit laudantium est consequuntur rerum modi. Id dolorem ut aliquid sit veniam hic nostrum quam.",
+        "meta_title": "Jump Rope Classic 9USG",
+        "meta_description": "Assumenda reiciendis culpa distinctio perspiciatis iusto officiis. Aut ut accusamus rerum sunt et et non eos. Dicta quis velit laudantium est consequuntur rerum",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Metal"
+          },
+          {
+            "key": "Weight",
+            "value": "2928 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Sports Bags",
+          "slug": "sports-bags",
+          "logo": null,
+          "description": null,
+          "meta_title": "Sports Bags",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-classic-4cau",
+        "swim-goggles-classic-ddsv",
+        "swim-goggles-classic-ogko"
+      ],
+      "status": true
+    },
+    "swim-goggles-classic-ddsv": {
+      "data": {
+        "name": "Swim Goggles Classic DDSV",
+        "slug": "swim-goggles-classic-ddsv",
+        "pid": "SPORTS-B-GTGPQK",
+        "description": "Assumenda officiis voluptatum ratione eius ea itaque. Consequatur iusto eaque non qui. Odit autem iste quidem consequatur non amet a. Deserunt alias sapiente sed consequatur.",
+        "meta_title": "Swim Goggles Classic DDSV",
+        "meta_description": "Assumenda officiis voluptatum ratione eius ea itaque. Consequatur iusto eaque non qui. Odit autem iste quidem consequatur non amet a. Deserunt alias sapiente se",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Rubber"
+          },
+          {
+            "key": "Weight",
+            "value": "3303 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": false,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Sports Bags",
+          "slug": "sports-bags",
+          "logo": null,
+          "description": null,
+          "meta_title": "Sports Bags",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-classic-4cau",
+        "jump-rope-classic-9usg",
+        "swim-goggles-classic-ogko"
+      ],
+      "status": true
+    },
+    "yoga-mat-elite-onwu": {
+      "data": {
+        "name": "Yoga Mat Elite ONWU",
+        "slug": "yoga-mat-elite-onwu",
+        "pid": "TRAINING-VZSCCR",
+        "description": "Sint consectetur porro facere quas nihil quia perspiciatis. Ut corporis ab quas odio est ratione rerum. Tempora autem veritatis quibusdam tempora ut.",
+        "meta_title": "Yoga Mat Elite ONWU",
+        "meta_description": "Sint consectetur porro facere quas nihil quia perspiciatis. Ut corporis ab quas odio est ratione rerum. Tempora autem veritatis quibusdam tempora ut.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "3019 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Training Football",
+          "slug": "training-football",
+          "logo": null,
+          "description": null,
+          "meta_title": "Training Football",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-pro-kqi9",
+        "training-shirt-new-edition-xbwd",
+        "training-shirt-classic-br0i"
+      ],
+      "status": true
+    },
+    "jump-rope-new-edition-gyv6": {
+      "data": {
+        "name": "Jump Rope New Edition GYV6",
+        "slug": "jump-rope-new-edition-gyv6",
+        "pid": "FUTSAL-GT3YNY",
+        "description": "Est et deleniti dolores. Quibusdam voluptatem qui et sed autem cumque quod. Aut pariatur ex libero. Cum alias deserunt dignissimos pariatur rem nobis eos est. Nam tenetur voluptas sed.",
+        "meta_title": "Jump Rope New Edition GYV6",
+        "meta_description": "Est et deleniti dolores. Quibusdam voluptatem qui et sed autem cumque quod. Aut pariatur ex libero. Cum alias deserunt dignissimos pariatur rem nobis eos est. N",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "1943 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Futsal",
+          "slug": "futsal",
+          "logo": null,
+          "description": null,
+          "meta_title": "Futsal",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "sports-bag-new-edition-dt3g",
+        "dumbbell-pro-dmph",
+        "swim-goggles-new-edition-jrjj"
+      ],
+      "status": true
+    },
+    "dumbbell-pro-dmph": {
+      "data": {
+        "name": "Dumbbell Pro DMPH",
+        "slug": "dumbbell-pro-dmph",
+        "pid": "FUTSAL-4HFPCR",
+        "description": "Rerum nostrum earum ipsa et nulla. Est rem ut voluptas. Sunt incidunt voluptatem in cum sed et aperiam.",
+        "meta_title": "Dumbbell Pro DMPH",
+        "meta_description": "Rerum nostrum earum ipsa et nulla. Est rem ut voluptas. Sunt incidunt voluptatem in cum sed et aperiam.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "694 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Futsal",
+          "slug": "futsal",
+          "logo": null,
+          "description": null,
+          "meta_title": "Futsal",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "sports-bag-new-edition-dt3g",
+        "swim-goggles-new-edition-jrjj",
+        "jump-rope-new-edition-gyv6"
+      ],
+      "status": true
+    },
+    "sports-bag-new-edition-dt3g": {
+      "data": {
+        "name": "Sports Bag New Edition DT3G",
+        "slug": "sports-bag-new-edition-dt3g",
+        "pid": "FUTSAL-FZJFOP",
+        "description": "Quasi quia accusamus quia. Vel quo commodi atque voluptatum ut quidem qui. Similique sequi consequatur est quidem corrupti eligendi. At dolores delectus voluptatem nihil.",
+        "meta_title": "Sports Bag New Edition DT3G",
+        "meta_description": "Quasi quia accusamus quia. Vel quo commodi atque voluptatum ut quidem qui. Similique sequi consequatur est quidem corrupti eligendi. At dolores delectus volupta",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Metal"
+          },
+          {
+            "key": "Weight",
+            "value": "1605 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Futsal",
+          "slug": "futsal",
+          "logo": null,
+          "description": null,
+          "meta_title": "Futsal",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "dumbbell-pro-dmph",
+        "swim-goggles-new-edition-jrjj",
+        "jump-rope-new-edition-gyv6"
+      ],
+      "status": true
+    },
+    "yoga-mat-elite-b5ob": {
+      "data": {
+        "name": "Yoga Mat Elite B5OB",
+        "slug": "yoga-mat-elite-b5ob",
+        "pid": "BASKETBA-JDNZBV",
+        "description": "Et totam dolorum accusantium fugit est voluptatem voluptas. Qui ad libero harum eos officiis quasi ratione. Id quidem non inventore fugit minima. Et quia labore quisquam explicabo placeat.",
+        "meta_title": "Yoga Mat Elite B5OB",
+        "meta_description": "Et totam dolorum accusantium fugit est voluptatem voluptas. Qui ad libero harum eos officiis quasi ratione. Id quidem non inventore fugit minima. Et quia labore",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "737 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Basketball",
+          "slug": "basketball",
+          "logo": null,
+          "description": null,
+          "meta_title": "Basketball",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-elite-9q2b",
+        "football-elite-o1iz",
+        "sports-bag-elite-qp6a"
+      ],
+      "status": true
+    },
+    "sports-bag-elite-qp6a": {
+      "data": {
+        "name": "Sports Bag Elite QP6A",
+        "slug": "sports-bag-elite-qp6a",
+        "pid": "BASKETBA-VFSMXS",
+        "description": "Quod sunt molestiae eum quasi id quia. Qui sequi quae adipisci aut recusandae quia sint.",
+        "meta_title": "Sports Bag Elite QP6A",
+        "meta_description": "Quod sunt molestiae eum quasi id quia. Qui sequi quae adipisci aut recusandae quia sint.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Rubber"
+          },
+          {
+            "key": "Weight",
+            "value": "876 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Basketball",
+          "slug": "basketball",
+          "logo": null,
+          "description": null,
+          "meta_title": "Basketball",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-elite-b5ob",
+        "yoga-mat-elite-9q2b",
+        "football-elite-o1iz"
+      ],
+      "status": true
+    },
+    "yoga-mat-elite-9q2b": {
+      "data": {
+        "name": "Yoga Mat Elite 9Q2B",
+        "slug": "yoga-mat-elite-9q2b",
+        "pid": "BASKETBA-I3JNR3",
+        "description": "Eligendi voluptas earum iste occaecati temporibus eligendi. Voluptate ut ut velit repellat. Rerum ut et id ut nisi inventore optio facilis.",
+        "meta_title": "Yoga Mat Elite 9Q2B",
+        "meta_description": "Eligendi voluptas earum iste occaecati temporibus eligendi. Voluptate ut ut velit repellat. Rerum ut et id ut nisi inventore optio facilis.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "4006 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Basketball",
+          "slug": "basketball",
+          "logo": null,
+          "description": null,
+          "meta_title": "Basketball",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-elite-b5ob",
+        "football-elite-o1iz",
+        "sports-bag-elite-qp6a"
+      ],
+      "status": true
+    },
+    "training-shirt-new-edition-nnsl": {
+      "data": {
+        "name": "Training Shirt New Edition NNSL",
+        "slug": "training-shirt-new-edition-nnsl",
+        "pid": "VOLLEYBA-FCRKG5",
+        "description": "Quidem est nostrum temporibus sit perferendis. Voluptatem provident minima voluptatem maxime voluptatem et. Quibusdam soluta perferendis nobis et molestias.",
+        "meta_title": "Training Shirt New Edition NNSL",
+        "meta_description": "Quidem est nostrum temporibus sit perferendis. Voluptatem provident minima voluptatem maxime voluptatem et. Quibusdam soluta perferendis nobis et molestias.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "4259 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Volleyball",
+          "slug": "volleyball",
+          "logo": null,
+          "description": null,
+          "meta_title": "Volleyball",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "yoga-mat-classic-80uj",
+        "yoga-mat-new-edition-mxky",
+        "football-elite-ciyw"
+      ],
+      "status": true
+    },
+    "jump-rope-new-edition-wpgg": {
+      "data": {
+        "name": "Jump Rope New Edition WPGG",
+        "slug": "jump-rope-new-edition-wpgg",
+        "pid": "T-SHIRTS-UMGVYV",
+        "description": "Esse cum velit quo omnis aut autem. Autem aspernatur asperiores distinctio. Ut soluta vero sit eos.",
+        "meta_title": "Jump Rope New Edition WPGG",
+        "meta_description": "Esse cum velit quo omnis aut autem. Autem aspernatur asperiores distinctio. Ut soluta vero sit eos.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Rubber"
+          },
+          {
+            "key": "Weight",
+            "value": "230 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "T-Shirts",
+          "slug": "t-shirts",
+          "logo": null,
+          "description": null,
+          "meta_title": "T-Shirts",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "jump-rope-elite-xdbq",
+        "training-shirt-pro-atme",
+        "training-shirt-pro-k3sa"
+      ],
+      "status": true
+    },
+    "jump-rope-elite-xdbq": {
+      "data": {
+        "name": "Jump Rope Elite XDBQ",
+        "slug": "jump-rope-elite-xdbq",
+        "pid": "T-SHIRTS-I9HOLJ",
+        "description": "Molestiae cupiditate quis velit aut aperiam. Ipsa et nesciunt omnis vero perferendis non assumenda. Facilis est qui debitis laborum officiis vel.",
+        "meta_title": "Jump Rope Elite XDBQ",
+        "meta_description": "Molestiae cupiditate quis velit aut aperiam. Ipsa et nesciunt omnis vero perferendis non assumenda. Facilis est qui debitis laborum officiis vel.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "3665 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "T-Shirts",
+          "slug": "t-shirts",
+          "logo": null,
+          "description": null,
+          "meta_title": "T-Shirts",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "training-shirt-pro-atme",
+        "jump-rope-new-edition-wpgg",
+        "training-shirt-pro-k3sa"
+      ],
+      "status": true
+    },
+    "swim-goggles-new-edition-wpey": {
+      "data": {
+        "name": "Swim Goggles New Edition WPEY",
+        "slug": "swim-goggles-new-edition-wpey",
+        "pid": "SHORTS-RUPCYU",
+        "description": "Rerum sit aspernatur officiis. Sit odit sed harum assumenda ipsa qui. Natus incidunt consectetur vero accusantium quaerat incidunt minus non. Natus necessitatibus eum suscipit quibusdam blanditiis quisquam consequatur sed.",
+        "meta_title": "Swim Goggles New Edition WPEY",
+        "meta_description": "Rerum sit aspernatur officiis. Sit odit sed harum assumenda ipsa qui. Natus incidunt consectetur vero accusantium quaerat incidunt minus non. Natus necessitatib",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Rubber"
+          },
+          {
+            "key": "Weight",
+            "value": "2782 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Shorts",
+          "slug": "shorts",
+          "logo": null,
+          "description": null,
+          "meta_title": "Shorts",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "dumbbell-classic-rn5b",
+        "football-elite-wycq",
+        "jump-rope-new-edition-bbaq"
+      ],
+      "status": true
+    },
+    "jump-rope-new-edition-bbaq": {
+      "data": {
+        "name": "Jump Rope New Edition BBAQ",
+        "slug": "jump-rope-new-edition-bbaq",
+        "pid": "SHORTS-WA0U0B",
+        "description": "Quisquam veniam vel aperiam vitae saepe. Qui alias molestiae aut molestiae. Aspernatur porro sed et maiores non.",
+        "meta_title": "Jump Rope New Edition BBAQ",
+        "meta_description": "Quisquam veniam vel aperiam vitae saepe. Qui alias molestiae aut molestiae. Aspernatur porro sed et maiores non.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "1904 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Shorts",
+          "slug": "shorts",
+          "logo": null,
+          "description": null,
+          "meta_title": "Shorts",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "swim-goggles-new-edition-wpey",
+        "football-elite-wycq",
+        "dumbbell-classic-rn5b"
+      ],
+      "status": true
+    },
+    "football-elite-wycq": {
+      "data": {
+        "name": "Football Elite WYCQ",
+        "slug": "football-elite-wycq",
+        "pid": "SHORTS-YUEBS0",
+        "description": "Facere sequi omnis sapiente ducimus. Labore modi perferendis doloribus qui voluptatem accusamus. Necessitatibus quisquam eius aperiam est placeat maxime est.",
+        "meta_title": "Football Elite WYCQ",
+        "meta_description": "Facere sequi omnis sapiente ducimus. Labore modi perferendis doloribus qui voluptatem accusamus. Necessitatibus quisquam eius aperiam est placeat maxime est.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Metal"
+          },
+          {
+            "key": "Weight",
+            "value": "2925 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Shorts",
+          "slug": "shorts",
+          "logo": null,
+          "description": null,
+          "meta_title": "Shorts",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "dumbbell-classic-rn5b",
+        "swim-goggles-new-edition-wpey",
+        "jump-rope-new-edition-bbaq"
+      ],
+      "status": true
+    },
+    "football-pro-ikg9": {
+      "data": {
+        "name": "Football Pro IKG9",
+        "slug": "football-pro-ikg9",
+        "pid": "TRACKSUI-CQ6R5O",
+        "description": "Quo non qui eum sint voluptate soluta. Eligendi iure facilis consequuntur a vitae at.",
+        "meta_title": "Football Pro IKG9",
+        "meta_description": "Quo non qui eum sint voluptate soluta. Eligendi iure facilis consequuntur a vitae at.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Metal"
+          },
+          {
+            "key": "Weight",
+            "value": "4041 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Competition"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Tracksuits",
+          "slug": "tracksuits",
+          "logo": null,
+          "description": null,
+          "meta_title": "Tracksuits",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "swim-goggles-new-edition-ahtl",
+        "yoga-mat-classic-qxzx",
+        "sports-bag-pro-udeo"
+      ],
+      "status": true
+    },
+    "yoga-mat-classic-qxzx": {
+      "data": {
+        "name": "Yoga Mat Classic QXZX",
+        "slug": "yoga-mat-classic-qxzx",
+        "pid": "TRACKSUI-N0XLCD",
+        "description": "Sint exercitationem illo et. Id in sequi ut amet. Et non repudiandae cum quaerat. Qui rerum vitae repudiandae non. Illo odio et est et praesentium harum.",
+        "meta_title": "Yoga Mat Classic QXZX",
+        "meta_description": "Sint exercitationem illo et. Id in sequi ut amet. Et non repudiandae cum quaerat. Qui rerum vitae repudiandae non. Illo odio et est et praesentium harum.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Rubber"
+          },
+          {
+            "key": "Weight",
+            "value": "4543 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Tracksuits",
+          "slug": "tracksuits",
+          "logo": null,
+          "description": null,
+          "meta_title": "Tracksuits",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "sports-bag-pro-udeo",
+        "swim-goggles-new-edition-ahtl",
+        "football-pro-ikg9"
+      ],
+      "status": true
+    },
+    "sports-bag-new-edition-8fsj": {
+      "data": {
+        "name": "Sports Bag New Edition 8FSJ",
+        "slug": "sports-bag-new-edition-8fsj",
+        "pid": "RESISTAN-I2P9DJ",
+        "description": "Voluptatem totam voluptatibus vel ipsum et debitis. Voluptas quia et illum reiciendis cupiditate veritatis. Nemo autem incidunt est consequuntur at. Molestiae ut veritatis non non nesciunt.",
+        "meta_title": "Sports Bag New Edition 8FSJ",
+        "meta_description": "Voluptatem totam voluptatibus vel ipsum et debitis. Voluptas quia et illum reiciendis cupiditate veritatis. Nemo autem incidunt est consequuntur at. Molestiae u",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Fabric"
+          },
+          {
+            "key": "Weight",
+            "value": "4984 g"
+          },
+          {
+            "key": "Best for",
+            "value": "The gym"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Resistance Bands",
+          "slug": "resistance-bands",
+          "logo": null,
+          "description": null,
+          "meta_title": "Resistance Bands",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "football-new-edition-4k76",
+        "jump-rope-elite-wkr0",
+        "dumbbell-new-edition-yorv"
+      ],
+      "status": true
+    },
+    "training-shirt-classic-xqyh": {
+      "data": {
+        "name": "Training Shirt Classic XQYH",
+        "slug": "training-shirt-classic-xqyh",
+        "pid": "SWIMMING-XT5EHS",
+        "description": "Perspiciatis eveniet qui impedit totam. Autem qui sequi expedita eaque tenetur vero ipsam. Quis est sed ratione ab. Accusantium quod et aut.",
+        "meta_title": "Training Shirt Classic XQYH",
+        "meta_description": "Perspiciatis eveniet qui impedit totam. Autem qui sequi expedita eaque tenetur vero ipsam. Quis est sed ratione ab. Accusantium quod et aut.",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Leather"
+          },
+          {
+            "key": "Weight",
+            "value": "3714 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Swimming Gear",
+          "slug": "swimming-gear",
+          "logo": null,
+          "description": null,
+          "meta_title": "Swimming Gear",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "sports-bag-classic-tfrv",
+        "swim-goggles-elite-2rzr",
+        "tennis-racket-elite-0lqy"
+      ],
+      "status": true
+    },
+    "yoga-mat-classic-4cau": {
+      "data": {
+        "name": "Yoga Mat Classic 4CAU",
+        "slug": "yoga-mat-classic-4cau",
+        "pid": "SPORTS-B-TSWRAZ",
+        "description": "Labore deleniti modi facilis cum impedit facere. Ut non quis nihil enim. Aliquam est placeat consequatur vitae aspernatur sed. Velit mollitia dolores sint vel ut.",
+        "meta_title": "Yoga Mat Classic 4CAU",
+        "meta_description": "Labore deleniti modi facilis cum impedit facere. Ut non quis nihil enim. Aliquam est placeat consequatur vitae aspernatur sed. Velit mollitia dolores sint vel u",
+        "attributes": [
+          {
+            "key": "Material",
+            "value": "Rubber"
+          },
+          {
+            "key": "Weight",
+            "value": "4734 g"
+          },
+          {
+            "key": "Best for",
+            "value": "Outdoors"
+          }
+        ],
+        "featured_img": "https://placehold.co/640x480/png",
+        "gallery": [
+          "https://placehold.co/640x480/png",
+          "https://placehold.co/800x600/png"
+        ],
+        "is_active": true,
+        "is_new": true,
+        "created_at": "2026-09-05T04:26:57+00:00",
+        "updated_at": "2026-09-05T04:26:57+00:00",
+        "category": {
+          "name": "Sports Bags",
+          "slug": "sports-bags",
+          "logo": null,
+          "description": null,
+          "meta_title": "Sports Bags",
+          "meta_description": "",
+          "depth": 0,
+          "order": 0,
+          "is_active": false,
+          "is_new": false,
+          "products_length": 0
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        }
+      },
+      "related": [
+        "swim-goggles-classic-ddsv",
+        "jump-rope-classic-9usg",
+        "swim-goggles-classic-ogko"
+      ],
+      "status": true
+    }
+  },
+  "categories": {
+    "sports-balls": {
+      "data": {
+        "name": "Sports Balls",
+        "slug": "sports-balls",
+        "logo": null,
+        "description": "Products in the Sports Balls category.",
+        "meta_title": "Sports Balls",
+        "meta_description": "Products in the Sports Balls category.",
+        "depth": 0,
+        "order": 0,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 0,
+        "parent": null,
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": [
+          {
+            "name": "Football",
+            "slug": "football",
+            "logo": null,
+            "description": "Products in the Football category.",
+            "meta_title": "Football",
+            "meta_description": "Products in the Football category.",
+            "depth": 1,
+            "order": 0,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 0
+          },
+          {
+            "name": "Futsal",
+            "slug": "futsal",
+            "logo": null,
+            "description": "Products in the Futsal category.",
+            "meta_title": "Futsal",
+            "meta_description": "Products in the Futsal category.",
+            "depth": 1,
+            "order": 1,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          },
+          {
+            "name": "Basketball",
+            "slug": "basketball",
+            "logo": null,
+            "description": "Products in the Basketball category.",
+            "meta_title": "Basketball",
+            "meta_description": "Products in the Basketball category.",
+            "depth": 1,
+            "order": 2,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          },
+          {
+            "name": "Volleyball",
+            "slug": "volleyball",
+            "logo": null,
+            "description": "Products in the Volleyball category.",
+            "meta_title": "Volleyball",
+            "meta_description": "Products in the Volleyball category.",
+            "depth": 1,
+            "order": 3,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          }
+        ]
+      },
+      "breadcrumb": [],
+      "products": [
+        "training-shirt-elite-e4ur",
+        "dumbbell-new-edition-qdku",
+        "swim-goggles-new-edition-4woe",
+        "swim-goggles-classic-wyt3",
+        "training-shirt-classic-br0i",
+        "training-shirt-new-edition-xbwd",
+        "yoga-mat-elite-onwu",
+        "jump-rope-pro-kqi9",
+        "jump-rope-new-edition-gyv6",
+        "swim-goggles-new-edition-jrjj",
+        "dumbbell-pro-dmph",
+        "sports-bag-new-edition-dt3g",
+        "yoga-mat-elite-b5ob",
+        "football-elite-o1iz",
+        "sports-bag-elite-qp6a",
+        "yoga-mat-elite-9q2b",
+        "football-elite-ciyw",
+        "yoga-mat-new-edition-mxky",
+        "training-shirt-new-edition-nnsl",
+        "yoga-mat-classic-80uj"
+      ],
+      "status": true
+    },
+    "sports-balls/football": {
+      "data": {
+        "name": "Football",
+        "slug": "football",
+        "logo": null,
+        "description": "Products in the Football category.",
+        "meta_title": "Football",
+        "meta_description": "Products in the Football category.",
+        "depth": 1,
+        "order": 0,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 0,
+        "parent": {
+          "name": "Sports Balls",
+          "slug": "sports-balls"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": [
+          {
+            "name": "Leather Football",
+            "slug": "leather-football",
+            "logo": null,
+            "description": "Products in the Leather Football category.",
+            "meta_title": "Leather Football",
+            "meta_description": "Products in the Leather Football category.",
+            "depth": 2,
+            "order": 0,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          },
+          {
+            "name": "Training Football",
+            "slug": "training-football",
+            "logo": null,
+            "description": "Products in the Training Football category.",
+            "meta_title": "Training Football",
+            "meta_description": "Products in the Training Football category.",
+            "depth": 2,
+            "order": 1,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          }
+        ]
+      },
+      "breadcrumb": [
+        {
+          "name": "Sports Balls",
+          "slug": "sports-balls",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "training-shirt-elite-e4ur",
+        "dumbbell-new-edition-qdku",
+        "swim-goggles-new-edition-4woe",
+        "swim-goggles-classic-wyt3",
+        "training-shirt-classic-br0i",
+        "training-shirt-new-edition-xbwd",
+        "yoga-mat-elite-onwu",
+        "jump-rope-pro-kqi9"
+      ],
+      "status": true
+    },
+    "football/leather-football": {
+      "data": {
+        "name": "Leather Football",
+        "slug": "leather-football",
+        "logo": null,
+        "description": "Products in the Leather Football category.",
+        "meta_title": "Leather Football",
+        "meta_description": "Products in the Leather Football category.",
+        "depth": 2,
+        "order": 0,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Football",
+          "slug": "football"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Sports Balls",
+          "slug": "sports-balls",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        },
+        {
+          "name": "Football",
+          "slug": "football",
+          "depth": 1,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "training-shirt-elite-e4ur",
+        "dumbbell-new-edition-qdku",
+        "swim-goggles-new-edition-4woe",
+        "swim-goggles-classic-wyt3"
+      ],
+      "status": true
+    },
+    "football/training-football": {
+      "data": {
+        "name": "Training Football",
+        "slug": "training-football",
+        "logo": null,
+        "description": "Products in the Training Football category.",
+        "meta_title": "Training Football",
+        "meta_description": "Products in the Training Football category.",
+        "depth": 2,
+        "order": 1,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Football",
+          "slug": "football"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Sports Balls",
+          "slug": "sports-balls",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        },
+        {
+          "name": "Football",
+          "slug": "football",
+          "depth": 1,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "training-shirt-classic-br0i",
+        "training-shirt-new-edition-xbwd",
+        "yoga-mat-elite-onwu",
+        "jump-rope-pro-kqi9"
+      ],
+      "status": true
+    },
+    "sports-balls/futsal": {
+      "data": {
+        "name": "Futsal",
+        "slug": "futsal",
+        "logo": null,
+        "description": "Products in the Futsal category.",
+        "meta_title": "Futsal",
+        "meta_description": "Products in the Futsal category.",
+        "depth": 1,
+        "order": 1,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Sports Balls",
+          "slug": "sports-balls"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Sports Balls",
+          "slug": "sports-balls",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "jump-rope-new-edition-gyv6",
+        "swim-goggles-new-edition-jrjj",
+        "dumbbell-pro-dmph",
+        "sports-bag-new-edition-dt3g"
+      ],
+      "status": true
+    },
+    "sports-balls/basketball": {
+      "data": {
+        "name": "Basketball",
+        "slug": "basketball",
+        "logo": null,
+        "description": "Products in the Basketball category.",
+        "meta_title": "Basketball",
+        "meta_description": "Products in the Basketball category.",
+        "depth": 1,
+        "order": 2,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Sports Balls",
+          "slug": "sports-balls"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Sports Balls",
+          "slug": "sports-balls",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "yoga-mat-elite-b5ob",
+        "football-elite-o1iz",
+        "sports-bag-elite-qp6a",
+        "yoga-mat-elite-9q2b"
+      ],
+      "status": true
+    },
+    "sports-balls/volleyball": {
+      "data": {
+        "name": "Volleyball",
+        "slug": "volleyball",
+        "logo": null,
+        "description": "Products in the Volleyball category.",
+        "meta_title": "Volleyball",
+        "meta_description": "Products in the Volleyball category.",
+        "depth": 1,
+        "order": 3,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Sports Balls",
+          "slug": "sports-balls"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Sports Balls",
+          "slug": "sports-balls",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "football-elite-ciyw",
+        "yoga-mat-new-edition-mxky",
+        "training-shirt-new-edition-nnsl",
+        "yoga-mat-classic-80uj"
+      ],
+      "status": true
+    },
+    "apparel": {
+      "data": {
+        "name": "Apparel",
+        "slug": "apparel",
+        "logo": null,
+        "description": "Products in the Apparel category.",
+        "meta_title": "Apparel",
+        "meta_description": "Products in the Apparel category.",
+        "depth": 0,
+        "order": 1,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 0,
+        "parent": null,
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": [
+          {
+            "name": "T-Shirts",
+            "slug": "t-shirts",
+            "logo": null,
+            "description": "Products in the T-Shirts category.",
+            "meta_title": "T-Shirts",
+            "meta_description": "Products in the T-Shirts category.",
+            "depth": 1,
+            "order": 0,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          },
+          {
+            "name": "Shorts",
+            "slug": "shorts",
+            "logo": null,
+            "description": "Products in the Shorts category.",
+            "meta_title": "Shorts",
+            "meta_description": "Products in the Shorts category.",
+            "depth": 1,
+            "order": 1,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          },
+          {
+            "name": "Tracksuits",
+            "slug": "tracksuits",
+            "logo": null,
+            "description": "Products in the Tracksuits category.",
+            "meta_title": "Tracksuits",
+            "meta_description": "Products in the Tracksuits category.",
+            "depth": 1,
+            "order": 2,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          }
+        ]
+      },
+      "breadcrumb": [],
+      "products": [
+        "jump-rope-new-edition-wpgg",
+        "training-shirt-pro-atme",
+        "jump-rope-elite-xdbq",
+        "training-shirt-pro-k3sa",
+        "swim-goggles-new-edition-wpey",
+        "jump-rope-new-edition-bbaq",
+        "football-elite-wycq",
+        "dumbbell-classic-rn5b",
+        "sports-bag-pro-udeo",
+        "swim-goggles-new-edition-ahtl",
+        "football-pro-ikg9",
+        "yoga-mat-classic-qxzx"
+      ],
+      "status": true
+    },
+    "apparel/t-shirts": {
+      "data": {
+        "name": "T-Shirts",
+        "slug": "t-shirts",
+        "logo": null,
+        "description": "Products in the T-Shirts category.",
+        "meta_title": "T-Shirts",
+        "meta_description": "Products in the T-Shirts category.",
+        "depth": 1,
+        "order": 0,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Apparel",
+          "slug": "apparel"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Apparel",
+          "slug": "apparel",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "jump-rope-new-edition-wpgg",
+        "training-shirt-pro-atme",
+        "jump-rope-elite-xdbq",
+        "training-shirt-pro-k3sa"
+      ],
+      "status": true
+    },
+    "apparel/shorts": {
+      "data": {
+        "name": "Shorts",
+        "slug": "shorts",
+        "logo": null,
+        "description": "Products in the Shorts category.",
+        "meta_title": "Shorts",
+        "meta_description": "Products in the Shorts category.",
+        "depth": 1,
+        "order": 1,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Apparel",
+          "slug": "apparel"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Apparel",
+          "slug": "apparel",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "swim-goggles-new-edition-wpey",
+        "jump-rope-new-edition-bbaq",
+        "football-elite-wycq",
+        "dumbbell-classic-rn5b"
+      ],
+      "status": true
+    },
+    "apparel/tracksuits": {
+      "data": {
+        "name": "Tracksuits",
+        "slug": "tracksuits",
+        "logo": null,
+        "description": "Products in the Tracksuits category.",
+        "meta_title": "Tracksuits",
+        "meta_description": "Products in the Tracksuits category.",
+        "depth": 1,
+        "order": 2,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Apparel",
+          "slug": "apparel"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Apparel",
+          "slug": "apparel",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "sports-bag-pro-udeo",
+        "swim-goggles-new-edition-ahtl",
+        "football-pro-ikg9",
+        "yoga-mat-classic-qxzx"
+      ],
+      "status": true
+    },
+    "fitness-equipment": {
+      "data": {
+        "name": "Fitness Equipment",
+        "slug": "fitness-equipment",
+        "logo": null,
+        "description": "Products in the Fitness Equipment category.",
+        "meta_title": "Fitness Equipment",
+        "meta_description": "Products in the Fitness Equipment category.",
+        "depth": 0,
+        "order": 2,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 0,
+        "parent": null,
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": [
+          {
+            "name": "Dumbbells",
+            "slug": "dumbbells",
+            "logo": null,
+            "description": "Products in the Dumbbells category.",
+            "meta_title": "Dumbbells",
+            "meta_description": "Products in the Dumbbells category.",
+            "depth": 1,
+            "order": 0,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          },
+          {
+            "name": "Resistance Bands",
+            "slug": "resistance-bands",
+            "logo": null,
+            "description": "Products in the Resistance Bands category.",
+            "meta_title": "Resistance Bands",
+            "meta_description": "Products in the Resistance Bands category.",
+            "depth": 1,
+            "order": 1,
+            "is_active": true,
+            "is_new": false,
+            "products_length": 4
+          }
+        ]
+      },
+      "breadcrumb": [],
+      "products": [
+        "jump-rope-elite-5eqj",
+        "dumbbell-new-edition-ycfp",
+        "jump-rope-classic-jahm",
+        "jump-rope-classic-rcxq",
+        "dumbbell-new-edition-yorv",
+        "sports-bag-new-edition-8fsj",
+        "jump-rope-elite-wkr0",
+        "football-new-edition-4k76"
+      ],
+      "status": true
+    },
+    "fitness-equipment/dumbbells": {
+      "data": {
+        "name": "Dumbbells",
+        "slug": "dumbbells",
+        "logo": null,
+        "description": "Products in the Dumbbells category.",
+        "meta_title": "Dumbbells",
+        "meta_description": "Products in the Dumbbells category.",
+        "depth": 1,
+        "order": 0,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Fitness Equipment",
+          "slug": "fitness-equipment"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Fitness Equipment",
+          "slug": "fitness-equipment",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "jump-rope-elite-5eqj",
+        "dumbbell-new-edition-ycfp",
+        "jump-rope-classic-jahm",
+        "jump-rope-classic-rcxq"
+      ],
+      "status": true
+    },
+    "fitness-equipment/resistance-bands": {
+      "data": {
+        "name": "Resistance Bands",
+        "slug": "resistance-bands",
+        "logo": null,
+        "description": "Products in the Resistance Bands category.",
+        "meta_title": "Resistance Bands",
+        "meta_description": "Products in the Resistance Bands category.",
+        "depth": 1,
+        "order": 1,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": {
+          "name": "Fitness Equipment",
+          "slug": "fitness-equipment"
+        },
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [
+        {
+          "name": "Fitness Equipment",
+          "slug": "fitness-equipment",
+          "depth": 0,
+          "products_length": 0,
+          "is_active": true
+        }
+      ],
+      "products": [
+        "dumbbell-new-edition-yorv",
+        "sports-bag-new-edition-8fsj",
+        "jump-rope-elite-wkr0",
+        "football-new-edition-4k76"
+      ],
+      "status": true
+    },
+    "swimming-gear": {
+      "data": {
+        "name": "Swimming Gear",
+        "slug": "swimming-gear",
+        "logo": null,
+        "description": "Products in the Swimming Gear category.",
+        "meta_title": "Swimming Gear",
+        "meta_description": "Products in the Swimming Gear category.",
+        "depth": 0,
+        "order": 3,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": null,
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [],
+      "products": [
+        "sports-bag-classic-tfrv",
+        "swim-goggles-elite-2rzr",
+        "tennis-racket-elite-0lqy",
+        "training-shirt-classic-xqyh"
+      ],
+      "status": true
+    },
+    "sports-bags": {
+      "data": {
+        "name": "Sports Bags",
+        "slug": "sports-bags",
+        "logo": null,
+        "description": "Products in the Sports Bags category.",
+        "meta_title": "Sports Bags",
+        "meta_description": "Products in the Sports Bags category.",
+        "depth": 0,
+        "order": 4,
+        "is_active": true,
+        "is_new": false,
+        "products_length": 4,
+        "parent": null,
+        "brand": {
+          "name": "Strosin, Schaden and Harvey",
+          "slug": "strosin-schaden-and-harvey",
+          "description": null,
+          "meta_title": "Strosin, Schaden and Harvey",
+          "meta_description": "",
+          "logo": "https://placehold.co/200x200/png",
+          "is_active": false,
+          "is_new": false,
+          "order": 0,
+          "categories_length": 0,
+          "products_length": 0
+        },
+        "children": []
+      },
+      "breadcrumb": [],
+      "products": [
+        "yoga-mat-classic-4cau",
+        "swim-goggles-classic-ogko",
+        "jump-rope-classic-9usg",
+        "swim-goggles-classic-ddsv"
+      ],
+      "status": true
+    }
+  },
+  "brands": {
+    "lowe-and-sons": {
+      "data": {
+        "name": "Lowe and Sons",
+        "slug": "lowe-and-sons",
+        "description": "Equipment trusted by clubs and national federations alike.",
+        "meta_title": "Lowe and Sons",
+        "meta_description": "Equipment trusted by clubs and national federations alike.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": false,
+        "order": 13,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    },
+    "wolf-llc": {
+      "data": {
+        "name": "Wolf LLC",
+        "slug": "wolf-llc",
+        "description": "Precision-made accessories for competition and training.",
+        "meta_title": "Wolf LLC",
+        "meta_description": "Precision-made accessories for competition and training.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": false,
+        "order": 16,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    },
+    "orn-harvey": {
+      "data": {
+        "name": "Orn-Harvey",
+        "slug": "orn-harvey",
+        "description": "Technical apparel designed for comfort over long sessions.",
+        "meta_title": "Orn-Harvey",
+        "meta_description": "Technical apparel designed for comfort over long sessions.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": true,
+        "order": 17,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    },
+    "glover-stehr-and-metz": {
+      "data": {
+        "name": "Glover, Stehr and Metz",
+        "slug": "glover-stehr-and-metz",
+        "description": "A specialist in durable equipment for team sports.",
+        "meta_title": "Glover, Stehr and Metz",
+        "meta_description": "A specialist in durable equipment for team sports.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": false,
+        "order": 25,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    },
+    "sipes-schulist-and-schulist": {
+      "data": {
+        "name": "Sipes, Schulist and Schulist",
+        "slug": "sipes-schulist-and-schulist",
+        "description": "A specialist in durable equipment for team sports.",
+        "meta_title": "Sipes, Schulist and Schulist",
+        "meta_description": "A specialist in durable equipment for team sports.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": true,
+        "order": 29,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    },
+    "ferry-gerhold": {
+      "data": {
+        "name": "Ferry-Gerhold",
+        "slug": "ferry-gerhold",
+        "description": "Performance gear built for athletes who train year round.",
+        "meta_title": "Ferry-Gerhold",
+        "meta_description": "Performance gear built for athletes who train year round.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": true,
+        "order": 31,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    },
+    "smitham-marks-and-kovacek": {
+      "data": {
+        "name": "Smitham, Marks and Kovacek",
+        "slug": "smitham-marks-and-kovacek",
+        "description": "Precision-made accessories for competition and training.",
+        "meta_title": "Smitham, Marks and Kovacek",
+        "meta_description": "Precision-made accessories for competition and training.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": false,
+        "order": 61,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    },
+    "strosin-schaden-and-harvey": {
+      "data": {
+        "name": "Strosin, Schaden and Harvey",
+        "slug": "strosin-schaden-and-harvey",
+        "description": "A specialist in durable equipment for team sports.",
+        "meta_title": "Strosin, Schaden and Harvey",
+        "meta_description": "A specialist in durable equipment for team sports.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": true,
+        "order": 67,
+        "categories_length": 16,
+        "products_length": 48,
+        "root_categories": [
+          {
+            "name": "Sports Balls",
+            "slug": "sports-balls",
+            "depth": 0,
+            "products_length": 0,
+            "is_active": true,
+            "children": [
+              {
+                "name": "Football",
+                "slug": "football",
+                "depth": 1,
+                "products_length": 0,
+                "is_active": true
+              },
+              {
+                "name": "Futsal",
+                "slug": "futsal",
+                "depth": 1,
+                "products_length": 4,
+                "is_active": true
+              },
+              {
+                "name": "Basketball",
+                "slug": "basketball",
+                "depth": 1,
+                "products_length": 4,
+                "is_active": true
+              },
+              {
+                "name": "Volleyball",
+                "slug": "volleyball",
+                "depth": 1,
+                "products_length": 4,
+                "is_active": true
+              }
+            ]
+          },
+          {
+            "name": "Apparel",
+            "slug": "apparel",
+            "depth": 0,
+            "products_length": 0,
+            "is_active": true,
+            "children": [
+              {
+                "name": "T-Shirts",
+                "slug": "t-shirts",
+                "depth": 1,
+                "products_length": 4,
+                "is_active": true
+              },
+              {
+                "name": "Shorts",
+                "slug": "shorts",
+                "depth": 1,
+                "products_length": 4,
+                "is_active": true
+              },
+              {
+                "name": "Tracksuits",
+                "slug": "tracksuits",
+                "depth": 1,
+                "products_length": 4,
+                "is_active": true
+              }
+            ]
+          },
+          {
+            "name": "Fitness Equipment",
+            "slug": "fitness-equipment",
+            "depth": 0,
+            "products_length": 0,
+            "is_active": true,
+            "children": [
+              {
+                "name": "Dumbbells",
+                "slug": "dumbbells",
+                "depth": 1,
+                "products_length": 4,
+                "is_active": true
+              },
+              {
+                "name": "Resistance Bands",
+                "slug": "resistance-bands",
+                "depth": 1,
+                "products_length": 4,
+                "is_active": true
+              }
+            ]
+          },
+          {
+            "name": "Swimming Gear",
+            "slug": "swimming-gear",
+            "depth": 0,
+            "products_length": 4,
+            "is_active": true,
+            "children": []
+          },
+          {
+            "name": "Sports Bags",
+            "slug": "sports-bags",
+            "depth": 0,
+            "products_length": 4,
+            "is_active": true,
+            "children": []
+          }
+        ]
+      },
+      "status": true
+    },
+    "quigley-boyer-and-turner": {
+      "data": {
+        "name": "Quigley, Boyer and Turner",
+        "slug": "quigley-boyer-and-turner",
+        "description": "Technical apparel designed for comfort over long sessions.",
+        "meta_title": "Quigley, Boyer and Turner",
+        "meta_description": "Technical apparel designed for comfort over long sessions.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": false,
+        "order": 79,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    },
+    "moore-altenwerth-and-gislason": {
+      "data": {
+        "name": "Moore, Altenwerth and Gislason",
+        "slug": "moore-altenwerth-and-gislason",
+        "description": "Performance gear built for athletes who train year round.",
+        "meta_title": "Moore, Altenwerth and Gislason",
+        "meta_description": "Performance gear built for athletes who train year round.",
+        "logo": "https://placehold.co/200x200/png",
+        "is_active": true,
+        "is_new": true,
+        "order": 99,
+        "categories_length": 0,
+        "products_length": 0,
+        "root_categories": []
+      },
+      "status": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "storefront",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "typecheck": "nuxt typecheck",
+        "postinstall": "nuxt prepare",
+        "fixtures": "node scripts/generate-fixtures.mjs"
+    },
+    "dependencies": {
+        "@pinia/nuxt": "^0.11.3",
+        "pinia": "^3.0.4",
+        "vue": "^3.5.22",
+        "vue-router": "^4.6.3"
+    },
+    "devDependencies": {
+        "@nuxt/kit": "^4.2.1",
+        "@nuxt/schema": "^4.2.1",
+        "@tailwindcss/vite": "^4.1.14",
+        "@types/node": "^24.10.0",
+        "nuxt": "^4.2.1",
+        "tailwindcss": "^4.1.14",
+        "typescript": "^5.9.3",
+        "vue-tsc": "^3.1.1"
+    }
+}

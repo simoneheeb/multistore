@@ -1,0 +1,4 @@
+{
+    "//": "Nuxt generates the real config, including every path alias (~, ~~, #imports, #components, #app). Re-declaring `paths` here would replace that map rather than extend it, which is why the generated aliases must not be repeated.",
+    "extends": "./.nuxt/tsconfig.json"
+}
