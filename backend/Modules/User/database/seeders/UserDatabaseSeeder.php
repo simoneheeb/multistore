@@ -17,7 +17,7 @@ class UserDatabaseSeeder extends Seeder
             ['email' => $email],
             [
                 'name' => env('ADMIN_NAME', 'Administrator'),
-                'mobile' => env('ADMIN_MOBILE', '09000000000'),
+                'mobile' => env('ADMIN_MOBILE', '041000000000'),
                 'password' => env('ADMIN_PASSWORD', 'password'),
                 'is_active' => true,
                 'is_admin' => true,
