@@ -18,10 +18,7 @@
             enter-from-class="opacity-0 -translate-y-1"
             leave-active-class="transition duration-100 ease-in"
             leave-to-class="opacity-0">
-            <div
-                v-if="open"
-                class="absolute top-full z-50 pt-2"
-                :style="panelPosition">
+            <div v-if="open" class="absolute top-full z-50 pt-2" :style="panelPosition">
                 <div class="w-[min(56rem,90vw)] rounded-[var(--radius-base)] border border-border bg-surface p-5 shadow-xl">
                     <div class="grid gap-x-6 gap-y-5 sm:grid-cols-2 lg:grid-cols-4">
                         <div v-for="(column, index) in columns" :key="index" class="min-w-0">
@@ -93,5 +90,5 @@ const open = ref(false)
 // The panel is far wider than its trigger, so it is anchored to the inline
 // start edge and allowed to run toward the centre of the viewport. Using
 // logical properties keeps that correct in an RTL layout.
-const panelPosition = { insetInlineStart: '50%', transform: 'translateX(50%)' }
+const panelPosition = { left: '50%', transform: 'translateX(-50%)' }
 </script>
