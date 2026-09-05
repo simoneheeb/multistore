@@ -253,8 +253,8 @@
       "meta_description": ""
     },
     "seo": {
-      "default_title": "Beta Official",
-      "title_template": "%s | Beta Official",
+      "default_title": "Multi Store",
+      "title_template": "%s | Multi Store",
       "default_description": "Online store for sports equipment, with guaranteed authentic products and fast delivery.",
       "default_keywords": "sports equipment, sportswear, sports store",
       "og_image": "/assets/images/og-default.jpg",
@@ -262,7 +262,7 @@
       "robots_index": true,
       "google_site_verification": "",
       "organization": {
-        "name": "Beta Official",
+        "name": "Multi Store",
         "legal_name": "",
         "logo": "/assets/images/logo-header.png",
         "phone": "+1 (555) 000-0000",
